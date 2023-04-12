@@ -9,3 +9,4 @@ upto  5 study
 reciting aquran upto magrib'
 iftar
 tarafi
+sleep 10 to 3
